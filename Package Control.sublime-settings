@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"BracketHighlighter",
+		"ChineseLocalizations",
+		"ColorPicker",
+		"Colorsublime",
+		"Emmet",
+		"Git",
+		"LiveReload",
+		"MarkdownEditing",
+		"Markmon real-time markdown preview",
+		"Material Theme",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SyntaxHighlightTools",
+		"Terminal",
+		"Theme - Brogrammer",
+		"Theme - Elementary",
+		"Theme - Spacegray"
+	]
+}
