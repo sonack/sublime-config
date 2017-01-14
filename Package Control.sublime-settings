@@ -10,6 +10,7 @@
 		"ChineseLocalizations",
 		"ColorPicker",
 		"Colorsublime",
+		"CTags",
 		"Emmet",
 		"Git",
 		"LiveReload",
@@ -22,6 +23,7 @@
 		"Terminal",
 		"Theme - Brogrammer",
 		"Theme - Elementary",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"x86 and x86_64 Assembly"
 	]
 }
